@@ -12,4 +12,3 @@ def b_button():
     return ReplyKeyboardMarkup([[b1], [b2], [b3]], resize_keyboard=True, one_time_keyboard=True)
 
 t1,t2 = ("📱 Raqam yuborish", "🇺🇿 Tilni o'zagrtirish 🇷🇺")
-def t_button():
